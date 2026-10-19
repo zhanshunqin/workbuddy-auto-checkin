@@ -1,0 +1,6 @@
+# 密钥文件，严禁上传到 GitHub
+SECRETS_TO_FILL.txt
+*.json
+
+# 运行日志
+checkin_result.json
